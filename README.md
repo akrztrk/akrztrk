@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akrztrk
+👋 Hi, I’m @akrztrk
 
 👀 Interest: Data Science
 
