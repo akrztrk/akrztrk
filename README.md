@@ -2,16 +2,16 @@
 
 👀 Interest: Data Science
 
-📊 Data Science: I am passionate about data analysis and modeling. I work with large datasets to extract meaningful insights and develop data-driven solutions using machine learning algorithms and statistical analysis.
+I am passionate about data analysis and modeling. I work with large datasets to extract meaningful insights and develop data-driven solutions using machine learning algorithms and statistical analysis.
 
 🔧 Technologies and Tools:
 
-Programming Languages: Python
-Data Analysis and Processing: Pandas, NumPy
-Machine Learning: Scikit-learn, TensorFlow, Keras
-Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
-Databases: SQL, NoSQL
-Cloud Platforms: AWS, Google Cloud Platform, Azure
+- Programming Languages: Python
+- Data Analysis and Processing: Pandas, NumPy
+- Machine Learning: Scikit-learn, TensorFlow, Keras
+- Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
+- Databases: SQL, NoSQL
+- Cloud Platforms: AWS, Azure
 
 💼 Experience:
 
