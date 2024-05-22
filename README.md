@@ -17,7 +17,7 @@ I am passionate about data analysis and modeling. I work with large datasets to 
 
 Cleaning and analyzing large datasets
 Developing and optimizing machine learning models
-Participating in data analytics projects across various industries
+Participating in data analytics projects across various industries.
 
 📫 Contact Me:
 
